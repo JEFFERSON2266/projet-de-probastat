@@ -16,7 +16,7 @@ Cours de Probabilités & Statistiques — 2025–2026
 |--------|------|
 | NADINGA Yentema Josaphat | Modélisation & Simulation |
 | SOMÉ Ansovla Mathias | Analyse des données & Rapport |
-| YAGO Jefferson Hassan Ben Saïd | Interface graphique & GitHub |
+| YAGO Jefferson Hassan Saïb Rachid | Interface graphique & GitHub |
 
 **Enseignant responsable : Dr Cheick Amed Diloma Gabriel TRAORÉ**
 
